@@ -1,0 +1,14 @@
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\bin\Debug\net8.0\NumberLineJump.exe
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\bin\Debug\net8.0\NumberLineJump.deps.json
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\bin\Debug\net8.0\NumberLineJump.runtimeconfig.json
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\bin\Debug\net8.0\NumberLineJump.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\bin\Debug\net8.0\NumberLineJump.pdb
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.AssemblyInfoInputs.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.AssemblyInfo.cs
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\refint\NumberLineJump.dll
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.pdb
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\NumberLineJump.genruntimeconfig.cache
+D:\PROGRAMMING_HABIT\C# and dotNET\NumberLineJump\obj\Debug\net8.0\ref\NumberLineJump.dll
